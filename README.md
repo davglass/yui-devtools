@@ -26,3 +26,11 @@ Usage
         yui-local@0.1.0
         yuidocjs@0.2.9
         yuitest@0.7.2
+
+
+Total Hack Module
+-----------------
+
+This module is a total hack, it uses an npm `preinstall` script to run this:
+
+    npm -g install selleck yui-coverage yui-local yuidocjs yuitest
