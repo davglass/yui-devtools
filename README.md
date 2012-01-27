@@ -3,11 +3,11 @@ YUI Dev Time Tools
 
 Just a simple collection of YUI tools to help at dev time.
 
-* [https://github.com/rgrove/selleck](Selleck) - Example/Documentation Generator
-* [https://github.com/davglass/yui-coverage](YUI Coverage) - Code Coverage Helper
-* [https://github.com/davglass/yui-local](YUI Local Combo Server) - Dev Time Combo Server
-* [https://github.com/davglass/yuidocjs](YUI Doc in JS) - API Documentation
-* [https://github.com/yui/yuitest](YUITest) - Test Runner
+* [Selleck](https://github.com/rgrove/selleck) - Example/Documentation Generator
+* [YUI Coverage](https://github.com/davglass/yui-coverage) - Code Coverage Helper
+* [YUI Local Combo Server](https://github.com/davglass/yui-local) - Dev Time Combo Server
+* [YUI Doc in JS](https://github.com/davglass/yuidocjs) - API Documentation
+* [YUITest](https://github.com/yui/yuitest) - Test Runner
 
 Installation
 ------------
