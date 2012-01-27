@@ -17,7 +17,8 @@ var apps = {
     'selleck': 1,
     'yui-coverage': 1,
     'yui-local': 1,
-    'yuitest': 1
+    'yuitest': 1,
+    'yui-repl': 1
 };
 
 npm.load(config, function() {

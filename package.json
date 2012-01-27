@@ -9,7 +9,7 @@
         "node" : ">=0.4.0"
     },
     "scripts": {
-        "preinstall": "npm -g install yuidocjs selleck yui-coverage yui-local yuitest"
+        "preinstall": "npm -g install yuidocjs selleck yui-coverage yui-local yuitest yui-repl"
     },
     "bin": "./bin/cli.js",
     "dependencies": {
