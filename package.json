@@ -1,0 +1,30 @@
+{
+    "name": "yui-devtools",
+    "description": "Combo package of useful YUI dev time tools",
+    "version": "0.0.1",
+    "author": "Dav Glass <davglass@gmail.com>",
+    "bugs": { "url" : "https://github.com/davglass/yui-devtools/issues" },
+    "os": ["darwin", "linux"],
+    "engines": {
+        "node" : ">=0.4.0"
+    },
+    "scripts": {
+        "preinstall": "npm -g install yuidocjs selleck yui-coverage yui-local yuitest",
+        "postinstall": "yui-devtools"
+    },
+    "bin": "./bin/cli.js",
+    "dependencies": {
+        "npm": "*"
+    },
+    "preferGlobal": "true",
+    "licenses":[
+        {
+            "type" : "BSD",
+            "url" : "http://github.com/davglass/yui-devtools/blob/master/LICENSE"
+        }
+    ],
+    "repository": {
+        "type":"git",
+        "url":"http://github.com/davglass/yui-devtools.git"
+    }
+}
