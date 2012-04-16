@@ -18,7 +18,8 @@ var apps = {
     'yui-coverage': 1,
     'yui-local': 1,
     'yuitest': 1,
-    'yui-repl': 1
+    'yui-repl': 1,
+    'grover': 1
 };
 
 npm.load(config, function() {
