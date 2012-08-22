@@ -1,15 +1,11 @@
 {
     "name": "yui-devtools",
     "description": "Combo package of useful YUI dev time tools",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "author": "Dav Glass <davglass@gmail.com>",
     "bugs": { "url" : "https://github.com/davglass/yui-devtools/issues" },
-    "os": ["darwin", "linux"],
-    "engines": {
-        "node" : ">=0.4.0"
-    },
     "scripts": {
-        "preinstall": "npm -g install yuidocjs selleck yui-coverage yui-local yuitest yui-repl grover"
+        "preinstall": "npm -g install yuidocjs selleck yui-coverage yui-local yuitest yui-repl grover shifter"
     },
     "bin": "./bin/cli.js",
     "dependencies": {
