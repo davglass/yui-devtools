@@ -5,7 +5,7 @@
     "author": "Dav Glass <davglass@gmail.com>",
     "bugs": { "url" : "https://github.com/davglass/yui-devtools/issues" },
     "scripts": {
-        "preinstall": "npm -g install yuidocjs selleck yui-coverage yui-local yuitest yui-repl grover shifter"
+        "preinstall": "npm -g install yuidocjs selleck yui-coverage yui-local yuitest yui-repl grover shifter yogi yuglify yeti"
     },
     "bin": "./bin/cli.js",
     "dependencies": {
